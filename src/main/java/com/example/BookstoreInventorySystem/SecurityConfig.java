@@ -1,4 +1,4 @@
-package com.example.BookstoreInventorySystem.config; // 根据你的实际包名进行修改
+package com.example.BookstoreInventorySystem.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
